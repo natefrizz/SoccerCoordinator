@@ -150,11 +150,11 @@ chloeAlaska, arnoldWillis, phillipHelm, lesClay, herschelKrustofski
 var hasExperience = [String:Any]()
 var noExperience = [String:Any]()
 
-for _ in 1...players.count {
+for player in players {
     if experience == "Yes" {
         hasExperience.append(players)
     } else {
-        
+        noExperience.append(players)
     }
 }
 
