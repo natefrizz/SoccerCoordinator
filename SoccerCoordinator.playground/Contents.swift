@@ -161,15 +161,11 @@ for player in players {
 
 
 
-
+/*
 var teamSharks = [String:Any] ()
 var teamDragons = [String:Any] ()
 var teamRaptors = [String:Any] ()
-
-for player in 1...players.count {
-    
-}
-
+*/
 
 
 
