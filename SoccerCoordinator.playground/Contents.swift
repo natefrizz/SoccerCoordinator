@@ -1,10 +1,10 @@
 import UIKit
 
 // Naming the constants for dictionary keys to be used throughout.
-let name: String = "name"
-let height: String = "height"
-let experience: String = "soccer experience"
-let guardians: String = "guardians"
+var name: String = "name"
+var height: String = "height"
+var experience: String = "experience"
+var guardians: String = "guardians"
 
 
 // Creating dictionary for each player. Using `var` in case players grow or any other changes are needed.
